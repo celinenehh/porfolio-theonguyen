@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+body
+{font-family: Lora,Gatham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+ font-size: 15px;
+  color: #272C37;
+  margin:0 ; 
+      background:  #D1D1D1}
+#home{background-image: url(  "../img/3");background-position: right bottom;	background-size: cover;	background-repeat: repeat; background-attachment: fixed;}
+
+#hhh{background:#272C37;}
